@@ -5,7 +5,7 @@
 [published.mainnet]
 chain-id = "35834a8a"
 published-at = "0xe6717fb7c9d44706bf8ce8a651e25c0a7902d32cb0ff40c0976251ce8ac25655"
-original-id = "0x0000000000000000000000000000000000000000000000000000000000000000"
+original-id = "0x0b884dbc39d915f32a82cc62dabad75ca3efd3c568c329eba270b03c6f58cbd8"
 version = 2
 
 [published.testnet2]
